@@ -11,3 +11,8 @@
 ```
 $ python -c "print('I\'m in the terminal!!!!')"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portolio
+- [ ] Introduce myself to the world
+- [ ] Learn and apply everyday for life
